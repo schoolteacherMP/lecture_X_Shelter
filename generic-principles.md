@@ -339,5 +339,5 @@ for (let i = 0; i < 15; i++) {
 ``` 
 
 ### Далее:
-- [HTML и CSS рекомендации – начальный уровень]([html-and-css.md](https://github.com/schoolteacherMP/lecture_X_Shelter/blob/main/html-and-css.md)  
-- [HTML и CSS рекомендации – продвинутый уровень]([html-and-css-extended.md](https://github.com/schoolteacherMP/lecture_X_Shelter/blob/main/html-and-css-extended.md)  
+- [HTML и CSS рекомендации – начальный уровень](https://github.com/schoolteacherMP/lecture_X_Shelter/blob/main/html-and-css.md)  
+- [HTML и CSS рекомендации – продвинутый уровень](https://github.com/schoolteacherMP/lecture_X_Shelter/blob/main/html-and-css-extended.md)  

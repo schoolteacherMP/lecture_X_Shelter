@@ -43,7 +43,7 @@ Shelter - это проект, в котором вам предстоит св�
 Рекомендации предлагаются для ознакомления, их строгое соблюдение на этапе stage#1 не предполагается и не проверяется
 - гайдлайн https://codeguide.academy/html-css.html#html
 - руководство по качеству кода
-  - [общие принципы](../../stage1/modules/clean-code/materials/generic-principles.md)
+  - [общие принципы](https://github.com/schoolteacherMP/lecture_X_Shelter/blob/main/generic-principles.md)
   - [HTML и CSS рекомендации - начальный уровень](https://github.com/schoolteacherMP/lecture_X_Shelter/blob/main/html-and-css.md)
   - [HTML и CSS рекомендации - продвинутый уровень](https://github.com/schoolteacherMP/lecture_X_Shelter/blob/main/html-and-css-extended.md)
 
